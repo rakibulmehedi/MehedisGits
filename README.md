@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/MehedisGits">
-    <img src="https://github.com/MehedisGits.png" width="auto" style="border-radius:100%;" alt="Rakibul's Avatar" />
+    <img src="https://github.com/MehedisGits/MehedisGits/blob/main/banner3.png" width="480" style="border-radius:100%;" alt="Rakibul's Avatar" />
   </a>
 </p>
 
