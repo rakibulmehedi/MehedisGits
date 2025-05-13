@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/MehedisGits">
-    <img src="https://github.com/MehedisGits.png" width="160" style="border-radius:80%;" alt="Rakibul's Avatar" />
+    <img src="https://github.com/MehedisGits.png" width="160" style="border-radius:100%;" alt="Rakibul's Avatar" />
   </a>
 </p>
 
