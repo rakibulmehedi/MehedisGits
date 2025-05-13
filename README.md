@@ -1,8 +1,33 @@
 
 <!-- Profile Banner -->
+<!-- 🚀 Polished GitHub Profile Banner for Nexarise -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:00CED1&height=250&section=header&text=Hi%20there,%20I'm%20Rakibul!👋&fontSize=40&fontAlignY=35&desc=Flutter%20App%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=60&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=700&center=true&vCenter=true&width=900&height=60&lines=🚀+NEXARISE+-+Crafting+Smarter+Apps;Hi%2C+I'm+Rakibul+Islam+Mehedi+%F0%9F%91%8B;FFlutter+Developer+%7C+Open+Source+Contributor+%7C+Tech+Explorer" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/MehedisGits">
+    <img src="https://github.com/MehedisGits.png" width="160" style="border-radius:80%;" alt="Rakibul's Avatar" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-lightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="mailto:rakibulislammehedi4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rakibul-islam-mehedi-a1b8ba1bb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/rakibulislammehedi02"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://facebook.com/rakibulmehedi02"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+</p>
+
+<hr/>
+
 
 
 ### 👨‍💻 About Me
