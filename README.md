@@ -2,17 +2,18 @@
 <!-- Profile Banner -->
 <!-- 🚀 Nexarise Banner + Typing Animation (Responsive + Clean) -->
 <p align="center">
-  <img src="https://github.com/MehedisGits/MehedisGits/blob/main/banner-rakibul-nexarise.png" alt="Rakibul Islam Mehedi | Nexarise - Crafting Smarter Apps" width="100%" style="max-width: 100%; height: auto; border-radius: 10px;" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=🚀+NEXARISE+-+Crafting+Smarter+Apps;Hi%2C+I'm+Rakibul+Islam+Mehedi+%F0%9F%91%8B;Flutter+Developer+%7C+Open+Source+Contributor+%7C+Tech+Explorer" />
 </p>
 
+<!--
+<p align="center">
+  <img src="https://github.com/MehedisGits/MehedisGits/blob/main/banner-rakibul-nexarise.png" alt="Rakibul Islam Mehedi | Nexarise - Crafting Smarter Apps" width="100%" style="max-width: 100%; height: auto; border-radius: 10px;" />
+</p>
+-->
 
 <p align="center">
   <a href="https://github.com/MehedisGits">
-    <img src="https://github.com/MehedisGits.png" width="160" style="border-radius:100%;" alt="Rakibul's Avatar" />
+    <img src="https://github.com/MehedisGits.png" width="auto" style="border-radius:100%;" alt="Rakibul's Avatar" />
   </a>
 </p>
 
