@@ -89,7 +89,7 @@ class Rakibul {
 
 ## 📱 Featured Projects
 
-### 💸 [Pocketa](https://github.com/MehedisGits/Pocketa) – Expense Management App
+### 💸 [Pocketa](https://github.com/MehedisGits/Pocketa-V2) – Expense Management App
 
 Your Ultimate Expense Management System to track, analyze, and manage finances effortlessly.
 
