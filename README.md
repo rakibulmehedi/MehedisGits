@@ -76,12 +76,6 @@ class Rakibul {
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)  
 ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=flat&logo=trello&logoColor=white)  
 
-### 🔧 Additional Skills  
-![Meta Business Suite](https://img.shields.io/badge/Meta%20Business%20Suite-0467DF.svg?style=flat&logo=meta&logoColor=white)  
-![Facebook Ads](https://img.shields.io/badge/Facebook%20Ads-1877F2.svg?style=flat&logo=facebook&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)  
-
 
 ---
 
@@ -144,6 +138,18 @@ Reusable **authentication-ready login/signup UI flow** built with GetX.
 If you like my work, consider buying me a coffee ☕
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/rakibulislammehedi)
+
+---
+---
+
+## 🎯 Bonus Skills  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Meta%20Business%20Suite-0467DF.svg?style=flat&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook%20Ads-1877F2.svg?style=flat&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" />
+</p>
 
 ---
 
