@@ -18,10 +18,10 @@ class Rakibul {
 }
 ````
 
-💡 A passionate **Cross-Platform App Developer** crafting scalable, real-world Flutter applications.
-🎯 Currently exploring **Clean Architecture, Riverpod, Firebase & AI-powered integrations**.
-🌱 Strong believer in **learning, building, and sharing knowledge with the community**.
-📫 Reach me anytime: **[rakibulislammehedi4@gmail.com](mailto:rakibulislammehedi4@gmail.com)**
+💡 A passionate **Cross-Platform App Developer** crafting scalable, real-world Flutter applications.<br/>  
+🎯 Currently exploring **Clean Architecture, Riverpod, Firebase & AI-powered integrations**.<br/>  
+🌱 Strong believer in **learning, building, and sharing knowledge with the community**.<br/>  
+📫 Reach me anytime: **[rakibulislammehedi4@gmail.com](mailto:rakibulislammehedi4@gmail.com)**  
 
 ---
 
