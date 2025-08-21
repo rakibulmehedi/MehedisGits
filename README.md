@@ -140,23 +140,14 @@ If you like my work, consider buying me a coffee ☕
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/rakibulislammehedi)
 
 ---
----
 
 ## 🎯 Bonus Skills  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Meta%20Business%20Suite-0467DF.svg?style=flat&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Facebook%20Ads-1877F2.svg?style=flat&logo=facebook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MehedisGits&label=Profile%20Views&color=13&icon=5&pretty=true" />
+  <img src="https://img.shields.io/badge/Meta%20Business%20Suite-0467DF.svg?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook%20Ads-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
 </p>
 
 ---
