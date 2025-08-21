@@ -1,6 +1,3 @@
-
-
-````md
 # 👨‍💻 About Me  
 
 ```dart
@@ -146,9 +143,14 @@ If you like my work, consider buying me a coffee ☕
 
 ---
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=MehedisGits&label=Profile%20Views&color=13&icon=5&pretty=true" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Flutter+Dev;Code.+Create.+Contribute.;Always+Learning+New+Tech&center=true&width=500&height=45">
 </p>
-```
-
----
