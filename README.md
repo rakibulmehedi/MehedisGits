@@ -81,7 +81,7 @@ class Rakibul {
 
 ## 📱 Featured Projects
 
-### 💸 [Pocketa](https://github.com/MehedisGits/Pocketa-V2)
+### 💸 [Pocketa](https://github.com/MehedisGits/Pocketa)
 
 Your **ultimate expense management system** to track, analyze & manage finances effortlessly.
 
