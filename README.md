@@ -1,27 +1,29 @@
-# 👨‍💻 About Me  
+# 👨‍💻 About Me
 
 ```dart
 class Rakibul {
   final String name = "Rakibul Islam Mehedi";
-  final String role = "Flutter Developer | Open Source Contributor";
+  final String role = "Flutter Developer | Python Engineer";
   final List<String> techStack = [
-    "Flutter", "Dart", "Firebase", "REST APIs",
+    "Flutter", "Dart", "Python", "FastAPI",
+    "Firebase", "REST APIs", "GetX", "Riverpod",
     "Stripe & SSL-Commerz", "AdMob & Meta Audience Network"
   ];
 
   void mission() {
-    developBeautifulApps();
+    buildProductionGradeApps();
     writeCleanMaintainableCode();
-    contributeToCommunity();
+    automateEverythingPossible();
     keepLearningDaily();
   }
 }
-````
+```
 
-💡 A passionate **Cross-Platform App Developer** crafting scalable, real-world Flutter applications.<br/>  
-🎯 Currently exploring **Clean Architecture, Riverpod, Firebase & AI-powered integrations**.<br/>  
-🌱 Strong believer in **learning, building, and sharing knowledge with the community**.<br/>  
-📫 Reach me anytime: **[rakibulislammehedi4@gmail.com](mailto:rakibulislammehedi4@gmail.com)**  
+💡 Cross-platform app developer crafting scalable Flutter applications and Python automation systems.<br/>
+🎯 Currently working with **Clean Architecture, Riverpod, FastAPI & AI-powered integrations**.<br/>
+🌱 Strong believer in **shipping real products, not just side projects**.<br/>
+🤝 Open to **freelance projects and collaboration** — let's build something impactful.<br/>
+📫 Reach me anytime: **[rakibulislammehedi4@gmail.com](mailto:rakibulislammehedi4@gmail.com)**
 
 ---
 
@@ -37,61 +39,63 @@ class Rakibul {
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack
 
-### 🚀 App Development  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
+### 🚀 App Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
-### 🔥 Backend & Database  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST-API-green?style=flat&logo=fastapi&logoColor=white)  
+### 🐍 Backend & Automation
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=flat&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 
-### 🤖 AI & Emerging Tech  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat&logo=openai&logoColor=white)  
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4.svg?style=flat&logo=google&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=flat&logo=chainlink&logoColor=white)  
-![n8n](https://img.shields.io/badge/n8n-EA4C89.svg?style=flat&logo=n8n&logoColor=white)  
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFAE00.svg?style=flat&logo=huggingface&logoColor=white)  
+### 🔥 Database & Infrastructure
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
 
-### 💳 Payments & Monetization  
-![Stripe](https://img.shields.io/badge/Stripe-626CD9.svg?style=flat&logo=stripe&logoColor=white)  
-![SSLCommerz](https://img.shields.io/badge/SSLCommerz-blue.svg?style=flat&logo=ssl&logoColor=white)  
-![AdMob](https://img.shields.io/badge/Google%20AdMob-EA4335.svg?style=flat&logo=googleadmob&logoColor=white)  
-![Meta Audience Network](https://img.shields.io/badge/Meta%20Audience%20Network-0467DF.svg?style=flat&logo=meta&logoColor=white)  
+### 🤖 AI & Emerging Tech
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4.svg?style=flat&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4C89.svg?style=flat&logo=n8n&logoColor=white)
 
-### ⚙️ Tools & DevOps  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=androidstudio&logoColor=white)  
+### 💳 Payments & Monetization
+![Stripe](https://img.shields.io/badge/Stripe-626CD9.svg?style=flat&logo=stripe&logoColor=white)
+![SSLCommerz](https://img.shields.io/badge/SSLCommerz-blue.svg?style=flat&logo=ssl&logoColor=white)
+![AdMob](https://img.shields.io/badge/Google%20AdMob-EA4335.svg?style=flat&logo=googleadmob&logoColor=white)
+![Meta Audience Network](https://img.shields.io/badge/Meta%20Audience%20Network-0467DF.svg?style=flat&logo=meta&logoColor=white)
 
-### 🎨 UI/UX & Design 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  
+### ⚙️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=androidstudio&logoColor=white)
 
-### 🧰 Productivity & Management  
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)  
-![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=flat&logo=trello&logoColor=white)  
+### 🎨 UI/UX & Design
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
+### 🧰 Productivity
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=flat&logo=trello&logoColor=white)
 
 ---
 
 ## 📱 Featured Projects
 
 ### 💸 [Pocketa](https://github.com/MehedisGits/Pocketa)
+Personal finance tracker built with **Flutter, Riverpod, and Clean Architecture**. Offline-first with Hive, designed to sync with Supabase. Multi-platform CI/CD pipelines for Android, iOS, and Web.
 
-Your **ultimate expense management system** to track, analyze & manage finances effortlessly.
+### 🤖 [telegraft](https://github.com/MehedisGits/telegraft)
+Production-grade **Telegram content automation pipeline** built with Python and FastAPI. Scrapes, curates, and republishes content at scale with cycle-accurate scheduling, 26 Prometheus metrics, and 161 passing tests.
 
-### ✅ [Taskly](https://github.com/MehedisGits/Taskly)
-
-A **minimal yet powerful task manager** to keep you organized and productive.
-
-### 🔐 [Flutter GetX Login Flow](https://github.com/MehedisGits/flutter_getx_login_flow)
-
-Reusable **authentication-ready login/signup UI flow** built with GetX.
+### 🎰 [NeonVegas](https://github.com/MehedisGits/NeonVegas)
+Full-stack monorepo demo — **Flutter mobile client + NestJS API backend**, powered by PostgreSQL + Prisma ORM and Redis caching. Demonstrates end-to-end full-stack architecture.
 
 ---
 
@@ -129,19 +133,17 @@ Reusable **authentication-ready login/signup UI flow** built with GetX.
 
 ## ✍️ Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 💰 Support Me
+## 💰 Support My Work
 
-If you like my work, consider buying me a coffee ☕
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/rakibulislammehedi)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rakibulislammehedi)
 
 ---
 
-## 🎯 Bonus Skills  
+## 🎯 Bonus Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Meta%20Business%20Suite-0467DF.svg?style=for-the-badge&logo=meta&logoColor=white" />
@@ -153,5 +155,5 @@ If you like my work, consider buying me a coffee ☕
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Flutter+Dev;Code.+Create.+Contribute.;Always+Learning+New+Tech&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+%26+Python+Developer;Build.+Ship.+Automate.;Always+Learning+New+Tech&center=true&width=500&height=45">
 </p>
