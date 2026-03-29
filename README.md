@@ -1,4 +1,4 @@
-<div align="center">
+<div align="start">
 
 ```python
 class Rakibul:
@@ -25,7 +25,7 @@ class Rakibul:
 </div>
 
 <p align="center">
-  <b>Flutter Engineer · Python Automation · ex-Digital Marketer</b><br/>
+  <b>Software Engineer · Python Automation · ex-Digital Marketer</b><br/>
   Building apps that are engineered to work and designed to grow.
 </p>
 
