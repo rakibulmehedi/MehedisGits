@@ -1,3 +1,5 @@
+> **Superseded profile (archived).** Figures below reflect their date and are not current.
+
 <div align="start">
 
 ```python
